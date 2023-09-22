@@ -3,4 +3,11 @@
     <string name="watch_video_in_virtual_reality">Watch video in Virtual Reality</string>
     <string name="download_and_watch_online_wherever_you_are">Download and watch online wherever you are</string>
     <string name="button_intro">Get In</string>
+    <string name="username">Username</string>
+    <string name="log_in">Log in</string>
+    <string name="password">Password</string>
+    <string name="forgot_you_password">Forgot You Password</string>
+    <string name="login">Login</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="register_now">Register now</string>
 </resources>
